@@ -8,7 +8,7 @@
                             <div class="card">
                                 <div class="header bg-red">
                                     <h2>
-                                        <center> 1 </center>
+                                        <center> Editing Foto </center>
                                     </h2>
                                     <ul class="header-dropdown m-r--5">
                                         <li class="dropdown">
@@ -24,7 +24,7 @@
                                     </ul>
                                 </div>
                                 <div class="body">
-                                <img src="<?=base_url()?>assets/images/large.jpg" style="width:100%">
+                                <img src="<?=base_url()?>assets/images/Backup_of_Backup_of_Wallpaperku2.jpg" style="width:100%">
                                 </div>
                             </div>
                         </div>
@@ -33,7 +33,7 @@
                             <div class="card">
                                 <div class="header bg-cyan">
                                     <h2>
-                                        <center> 2 </center> 
+                                        <center> Design Logo </center> 
                                     </h2>
                                     <ul class="header-dropdown m-r--5">
                                         <li>
@@ -54,7 +54,7 @@
                                     </ul>
                                 </div>
                                 <div class="body">
-                                <img src="<?=base_url()?>assets/images/9612651a97152c25837fd95235622e33.png" style="width:100%">
+                                <img src="<?=base_url()?>assets/images/logo.jpg" style="width:100%">
                                 </div>
                             </div>
                         </div>
@@ -63,7 +63,7 @@
                             <div class="card">
                                 <div class="header bg-green">
                                     <h2>
-                                      <center>  3 </center>
+                                      <center>  Design Wallpaper </center>
                                     </h2>
                                     <ul class="header-dropdown m-r-0">
                                         <li>
@@ -79,7 +79,7 @@
                                     </ul>
                                 </div>
                                 <div class="body">
-                                <img src="<?=base_url()?>assets/images/ea33f761bb1a87136680f1ba8569e9aa.jpg" style="width:100%">
+                                <img src="<?=base_url()?>assets/images/word.png" style="width:100%">
                                 </div>
                             </div>
                         </div>

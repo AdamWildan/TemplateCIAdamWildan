@@ -33,7 +33,7 @@
 
                             <tr>
                             <td> Umur </td>
-                            <td> : 16 thn </td>
+                            <td> : 17 thn </td>
                             </tr>
 
                             <tr>
@@ -43,7 +43,17 @@
 
                             <tr>
                             <td> Hoby </td>
-                            <td> : TIDUR </td>
+                            <td> : Baket </td>
+                            </tr>
+
+                            <tr>
+                            <td> Email </td>
+                            <td> : adam_wildan_26rpl@student.smktelkom-mlg.sch.id </sch> </td>
+                            </tr>
+
+                            <tr>
+                                <td> Nomor Telepon </td>
+                                <td> : +62 8533 1964 070</td>
                             </tr>
                      
                             </div>

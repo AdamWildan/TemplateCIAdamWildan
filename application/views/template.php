@@ -317,7 +317,7 @@
                     <li>
                         <a href="<?=base_url('index.php/satu')?>">
                             <i class="material-icons">text_fields</i>
-                            <span>Art</span>
+                            <span>Gallery</span>
                         </a>
                     </li>
 
@@ -332,8 +332,21 @@
                     <li>
                         <a href="<?=base_url('index.php/tiga')?>">
                             <i class="material-icons">swap_calls</i>
-                            <span>Design Colors</span>
+                            <span>Event</span>
                         </a>
+                    </li>
+
+                    <li>
+                        <a href="<?=base_url('index.php/kategori')?>">
+                            <i class="material-icons">dashboard</i>
+                            <span>Kategori</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="<?=base_url('index.php/barang')?>">
+                            <i class="material-icons">shopping_cart</i>
+                            <span>Barang</span>
                     </li>                    
             </div>
 
